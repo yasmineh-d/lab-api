@@ -39,7 +39,7 @@ Au lieu que tout soit connecté directement, l'API devient la **couche de commun
 
 La communication suit un processus simple en 4 étapes :
 
-1. **Requête (Request)** – Le client envoie une demande
+1. **Requête (Request)** – Le client envoie une demande.
 **Exemple :**
 "Donne-moi la liste des utilisateurs"
 
