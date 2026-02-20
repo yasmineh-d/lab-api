@@ -1,4 +1,3 @@
-```
 ---
 marp: true
 theme: default
@@ -40,9 +39,14 @@ Au lieu que tout soit connecté directement, l'API devient la **couche de commun
 
 La communication suit un processus simple en 4 étapes :
 
-1. **Requête (Request)** – Le client envoie une demande (ex: "Récupérer les utilisateurs").
+1. **Requête (Request)** – Le client envoie une demande
+**Exemple :**
+"Donne-moi la liste des utilisateurs"
+
 2. **Réception** – L'API reçoit la requête et vérifie sa validité.
+
 3. **Traitement** – Le serveur traite la demande (Logique + Base de données).
+
 4. **Réponse (Response)** – L'API renvoie une réponse (généralement au format **JSON**).
 
 ---
